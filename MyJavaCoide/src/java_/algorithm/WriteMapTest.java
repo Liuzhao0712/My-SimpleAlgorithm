@@ -1,4 +1,4 @@
-package java.algorithm;
+package java_.algorithm;
 
 import java.util.Scanner;
 
