@@ -12,6 +12,7 @@ public class WriteMapTest {
     //4为向上走
 
     public static void main(String[] args) {
+        int test1 =1;
 
         Scanner scanner = new Scanner(System.in);
 
